@@ -1,0 +1,14 @@
+# sne compras
+
+0.0.0.0 mercadolibre.com
+0.0.0.0 segundamano.mx
+0.0.0.0 amazon.com
+0.0.0.0 shein.com
+0.0.0.0 aliexpress.com
+0.0.0.0 alibaba.com
+0.0.0.0 temu.com
+0.0.0.0 liverpool.com.mx
+0.0.0.0 walmart.com
+0.0.0.0 coppel.com
+0.0.0.0 bodegaaurrera.com.mx
+0.0.0.0 shopee.com

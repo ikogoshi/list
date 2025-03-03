@@ -1,0 +1,4 @@
+# sne social
+
+0.0.0.0 twitter.com
+0.0.0.0 x.com

@@ -1,0 +1,17 @@
+#sne juegos
+
+0.0.0.0 poki.com
+0.0.0.0 friv.com
+0.0.0.0 zone.msn.com
+0.0.0.0 1001juegos.com
+0.0.0.0 juegos.com
+0.0.0.0 minijuegos.mx
+0.0.0.0 juegos.games
+0.0.0.0 playhop.com
+0.0.0.0 juegosjuegos.ws
+0.0.0.0 zylom.com
+0.0.0.0 vipgames.com
+0.0.0.0 flyordie.com
+
+
+

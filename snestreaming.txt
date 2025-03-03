@@ -1,0 +1,30 @@
+# sne video streaming
+
+0.0.0.0 netflix.com
+0.0.0.0 youtube.com
+0.0.0.0 blim.com
+0.0.0.0 tvazteca.com
+0.0.0.0 televisa.com
+0.0.0.0 vix.com
+0.0.0.0 tudn.com
+0.0.0.0 paramountplus.com
+0.0.0.0 max.com
+0.0.0.0 disneyplus.com
+0.0.0.0 tubitv.com
+0.0.0.0 tv.apple.com
+0.0.0.0 crunchyroll.com
+0.0.0.0 cinepolis.com
+0.0.0.0 pluto.tv
+0.0.0.0 plex.tv
+0.0.0.0 cuevana.pro
+0.0.0.0 filmelier.com
+0.0.0.0 primevideo.com
+0.0.0.0 verpeliculasultra.com
+0.0.0.0 rakuten.tv
+0.0.0.0 cinecalidad.bar
+0.0.0.0 clarovideo.com
+0.0.0.0 cuevanahub.com
+0.0.0.0 cuevana4.me
+0.0.0.0 cuevana.online
+0.0.0.0 tubitv.com
+0.0.0.0 canela.tv
