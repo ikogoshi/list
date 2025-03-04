@@ -28,3 +28,4 @@
 0.0.0.0 cuevana.online
 0.0.0.0 tubitv.com
 0.0.0.0 canela.tv
+0.0.0.0 librefutbol.su
