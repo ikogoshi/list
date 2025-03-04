@@ -25,3 +25,5 @@
 0.0.0.0 betcris.mx
 0.0.0.0 betobet.com
 0.0.0.0 pinupbetmexico
+0.0.0.0 caliente.mx
+0.0.0.0 online.caliente.mx
