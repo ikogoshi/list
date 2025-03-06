@@ -1,7 +1,6 @@
 # sne video streaming
 
 0.0.0.0 netflix.com
-0.0.0.0 youtube.com
 0.0.0.0 blim.com
 0.0.0.0 tvazteca.com
 0.0.0.0 televisa.com
