@@ -1,0 +1,14 @@
+server:
+    access-control-view: 170.170.0.201/32 bypass
+    access-control-view: 170.170.0.202/32 bypass
+    access-control-view: 170.170.0.211/32 bypass
+    access-control-view: 170.170.0.240/32 bypass
+    access-control-view: 170.170.0.0/24 dnsbl1
+view:
+    name: "bypass"
+    view-first: yes
+view:
+    name: "dnsbl1"
+    view-first: yes
+    include: /var/unbound/pfb_dnsbl.*conf
+
