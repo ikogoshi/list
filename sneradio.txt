@@ -38,3 +38,5 @@
 0.0.0.0 es.jango.com
 0.0.0.0 jamendo.com
 0.0.0.0 iheartradio.mx
+0.0.0.0 radio.garden
+
