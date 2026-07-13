@@ -39,4 +39,5 @@
 0.0.0.0 jamendo.com
 0.0.0.0 iheartradio.mx
 0.0.0.0 radio.garden
+0.0.0.0 accuradio.com
 
